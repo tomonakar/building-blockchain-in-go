@@ -1,0 +1,4 @@
+*.db
+*.dat
+
+.DS_Store
